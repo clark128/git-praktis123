@@ -37,6 +37,21 @@ acces.score = 19999; // <-- Dili ni maka-apekto sa tinuod nga score.
 
 // Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
 acces.increasePts(10); // So score = 5 + 10 = 15
+// Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
+acces.increasePts(10); // So score = 5 + 10 = 15
+// Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
+acces.increasePts(10); // So score = 5 + 10 = 15
+// Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
+acces.increasePts(10); // So score = 5 + 10 = 15
+// Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
+acces.increasePts(10); // So score = 5 + 10 = 15
+// Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
+acces.increasePts(10); // So score = 5 + 10 = 15
+// Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
+acces.increasePts(10); // So score = 5 + 10 = 15
+// Gi-invoke nato ang increasePts() og gipasa ang value nga 10.
+acces.increasePts(10); // So score = 5 + 10 = 15
+
 
 // Gi-invoke napud nato ang decreasePts() og gipasa ang value nga 10.
 acces.decreasePts(10); // So score = 15 - 10 = 5
