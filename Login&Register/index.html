@@ -1,0 +1,32 @@
+<html>
+    <body>
+        <div id="form">
+            <div class="intro">
+                <button id="displayLogin">Login</button>
+                <button id="displayRegister">Register</button>
+            </div>
+
+            <div id="Register" style="display:none">
+                <input type="text" id="txtUser" placeholder="Username"/><br>
+                <input type="text" id="txtName" placeholder="Full Name"/><br>
+                <input type="password" id="txtPass" placeholder="Password"/><br>
+                <button id="btnRegister">Register</button>
+                <p id="displayValidate" style="color: red;"></p>
+            </div>
+
+            <div id="Login" style="display:none">
+                <input type="text" id="userL" placeholder="Username"/>
+                <input type="password" id="passL" placeholder="Username"/>
+                <button id="btnLogin">Login</button>
+                <p id="validateDisplay" style="color:red;"></p>
+                <a href="" id="link"></a>
+            </div>
+        </div>
+
+        <!--Dashboard-->
+        <div id="dashboard" style="display: none; text-align: center;">
+            <h1>Content Here</h1>
+        </div>
+    </body>
+    <script type="module" src="main.js"></script>
+</html>
